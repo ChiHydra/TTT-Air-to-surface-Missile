@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name" "TTT Air-to-surface Missile"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "weapon",
+	"tags": []
+}"
+}
